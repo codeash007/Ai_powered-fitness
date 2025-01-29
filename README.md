@@ -6,7 +6,7 @@ Right-click the uploaded file and select Get link.
 Make sure the link is set to Anyone with the link can view (or anyone can download).
 Download the Project from Google Drive
 
-Open the link: Google Drive Link.
+Open the link: Google Drive Link.(https://drive.google.com/file/d/1jgC-n4excocHYa__3U679f3-S65zS-4c/view?usp=drive_link)
 Click the Download button on the top-right corner of the page to download the project ZIP file to your local system.
 Extract the ZIP File
 
